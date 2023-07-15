@@ -24,7 +24,7 @@ body {
 
 header{
   height: 100vh;
-  background-image: linear-gradient(to top, rgba(251, 194, 235, 0.4) 0%, rgba(166, 192, 238, 0.3) 100%), url(../img/Logoempresa.jpg);
+  background-image: linear-gradient(to top, rgba(251, 194, 235, 0.4) 0%, rgba(166, 192, 238, 0.3) 100%), url(../img/LogoFinal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
